@@ -1,3 +1,5 @@
+**Note that this fork is available at npm as `@ls-age/commitlint-circle`**
+
 > Lint all relevant commits for a change or PR on Circle CI
 
 # commitlint-circle
